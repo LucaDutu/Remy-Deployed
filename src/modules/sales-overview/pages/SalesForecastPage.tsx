@@ -107,7 +107,7 @@ const SalesForecast: React.FC = () => {
       <Card className="rounded-2xl shadow-md">
         {/* Header Controls */}
         <CardHeader className="flex flex-row items-center justify-between">
-          <CardTitle className="text-xl font-bold">Sales Chart</CardTitle>
+          <CardTitle className="text-xl font-bold">Prediction</CardTitle>
           <div className="flex items-center gap-4">
             {/* Projection Toggle */}
             <div className="flex items-center gap-2">
